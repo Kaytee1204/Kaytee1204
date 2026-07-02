@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khánh Trịnh</h1>
 <h3 align="center">A passionate backend developer, BRSE from Viet Nam</h3>
 
-- 🔭 I’m currently working on **FPT Software**
+- 💼 **Experience:** 1 year as a **Sub-BrSE** at **FPT Software**
+
+- 🎯 **Language Proficiency:** JLPT N2, TOEIC 870
 
 - 📫 How to reach me **khanhtrinh1204@gmail.com**
 
